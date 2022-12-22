@@ -236,7 +236,7 @@ max-width: 20px;
         border-bottom: 5px solid var(--bio-border-color);
     }
 
-    #bio-container height: 2px;
+    #bio-container h2
     {
         display: none;
     }
@@ -278,5 +278,5 @@ max-width: 20px;
         font-size: 60px;
     }
 
-    
+
 }
